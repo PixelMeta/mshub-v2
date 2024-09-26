@@ -214,7 +214,7 @@ local Toggles = getgenv().Linoria.Toggles
 local ESPLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/mstudio45/MS-ESP/refs/heads/main/source.lua"))()
 
 local Window = Library:CreateWindow({
-	Title = "mspaint v2",
+	Title = "Mshub v2",
 	Center = true,
 	AutoShow = true,
 	Resizable = true,
